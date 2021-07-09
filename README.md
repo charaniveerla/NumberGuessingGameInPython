@@ -10,5 +10,7 @@ Now some random integer will be selected in the given range by the system and th
 
 After each guess, the user is intimated if his guess is smaller or larger to the original number.
 
+Please check "NumberGuessingGameInPython.py" for the detailly explained code.
+
 - By
 Charani Veerla.
