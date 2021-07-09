@@ -36,3 +36,60 @@ while(t>0):
 	    print("\nThe number is %d" % x)
 	    print("\nBetter Luck Next time!")
     t-=1
+"""
+PS C:\Users\Charani Veerla\OneDrive\Desktop\Charani\Python Programming in VSC>  c:; cd 'c:\Users\Charani Veerla\OneDrive\Desktop\Charani\Python Programming in VSC'; & 'C:\msys64\mingw64\bin\python.exe' 'C:\Users\Charani Veerla\.vscode\extensions\ms-python.python-2021.6.944021595\pythonFiles\lib\python\debugpy\launcher' '56162' '--' 'c:\Users\Charani Veerla\OneDrive\Desktop\Charani\Python Programming in VSC\NumberGuessingGame.py' 
+How many times do you want to play the game? 3
+Enter your lower bound: 10
+Enter your upper bound: 20
+
+        You've only  3  chances to guess the correct integer !
+
+Guess any number of your choice: 15
+You guessed too high!
+Guess any number of your choice: 13
+You guessed too high!
+Guess any number of your choice: 11
+You guessed too small!
+Guess any number of your choice: 12
+Congratulations you did it in  4  guess!
+
+The number is 12
+
+Better Luck Next time!
+Enter your lower bound: 20
+Enter your upper bound: 22
+
+        You've only  2  chances to guess the correct integer !
+
+Guess any number of your choice: 21
+You guessed too high!
+Guess any number of your choice: 20
+Congratulations you did it in  2  guess!
+
+The number is 20
+
+Better Luck Next time!
+Enter your lower bound: 100
+Enter your upper bound: 190
+
+        You've only  7  chances to guess the correct integer !
+
+Guess any number of your choice: 100
+You guessed too small!
+Guess any number of your choice: 119
+You guessed too small!
+Guess any number of your choice: 121
+You guessed too small!
+Guess any number of your choice: 131
+You guessed too small!
+Guess any number of your choice: 141
+You guessed too small!
+Guess any number of your choice: 151
+You guessed too small!
+Guess any number of your choice: 166
+You guessed too small!
+
+The number is 173
+
+Better Luck Next time!
+"""
